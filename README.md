@@ -1,6 +1,4 @@
-About Dataset
-Context
-http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
 
 
 This GitHub repository contains a machine learning project focused on diagnosing pneumonia from chest X-ray images using Convolutional Neural Networks (CNNs). The project employs two different models: a conventional CNN built from scratch and a pre-trained VGG16 model, optimized for image classification.
@@ -20,3 +18,10 @@ Repository Structure
 /evaluation/: Scripts for evaluating the models using various metrics such as accuracy, precision, recall, F1 score, and ROC curves. Includes functions to plot confusion matrices and calculate loss statistics.
 /results/: Stores output files like model weights, training logs, and visualizations of performance metrics across training and validation phases.
 /docs/: Documentation files explaining the project's methodology, setup, and usage instructions.
+
+
+
+Acknowledgements
+About Dataset,
+Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
+Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5

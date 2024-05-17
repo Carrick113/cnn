@@ -43,10 +43,11 @@ Conventional CNN model and pretrained VGG16 model. Deep learning framework used:
 * Future directions for research to enhance model generalizability.
 
 ### 8. References
-* Comprehensive listing of all sources cited in the report.
+* Comprehensive listing of all sources cited in the report. <br>
 
 
-For full report, you maybe download here.
+For full report, you maybe download within this repository.<br> 
+Files name= 21_pages_report.pdf
 
 
 

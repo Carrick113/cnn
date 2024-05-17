@@ -1,6 +1,7 @@
+![jZqpV51](https://github.com/Carrick113/cnn/assets/138642124/ec5ab25b-a2af-4e78-98ad-b8f9d1339c2d) <br>
 # Table of content  
-### 1. Introduction    
-* Overview of using CNNs to diagnose pneumonia from chest X-ray images.                       
+### 1. Problem solving    
+* Using CNNs to diagnose pneumonia from chest X-ray images.                       
 * Explanation of the project's aim to enhance diagnostic accuracy using advanced technology.   
 
 ### 2. Dataset Overview  
@@ -8,8 +9,7 @@ Description of the "Chest X-Ray Images (Pneumonia)" dataset sourced from Kaggle.
 Organization of data into train, test, and validation sets with categories for Pneumonia and Normal images. 
 
 ### 3. Models Employed
-Details on the conventional CNN model built for direct image learning. <br>
-Overview of the pretrained VGG16 model and its fine-tuning for enhanced feature extraction.
+Conventional CNN model and pretrained VGG16 model. Deep learning framework used: TensorFlow.
 
 ### 4. Model Structures and Functionalities
 #### Conventional CNN Model:
@@ -46,30 +46,7 @@ Overview of the pretrained VGG16 model and its fine-tuning for enhanced feature 
 * Comprehensive listing of all sources cited in the report.
 
 
-
-
-
-
-
-
-
-
-
-
-### 1. Introduction
-This project utilizes Convolutional Neural Networks (CNNs) to diagnose pneumonia from chest X-ray images, aiming to enhance the accuracy and efficiency of medical diagnostics. The study's significance lies in its potential to improve patient outcomes through quicker, more accurate diagnoses. The project utilizes two CNN models:  <br>
-- a custom-designed conventional CNN for direct learning from X-rays, <br>
-- and a pretrained VGG16 model, fine-tuned for enhanced feature extraction.
-<br>
-<br>
-
-
-### 2. Data Collection
-- Source of Data, http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5 <br>
-* Dataset Description <br>
-![jZqpV51](https://github.com/Carrick113/cnn/assets/138642124/ec5ab25b-a2af-4e78-98ad-b8f9d1339c2d) <br>
-The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
-
+For full report, you maybe download here.
 
 
 
